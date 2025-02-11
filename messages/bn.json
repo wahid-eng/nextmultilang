@@ -1,0 +1,15 @@
+{
+  "HomePage": {
+    "title": "হোম পেজ"
+  },
+  "AboutPage": {
+    "title": "পৃষ্ঠা সম্পর্কে"
+  },
+  "ContactPage": {
+    "title": "যোগাযোগ পৃষ্ঠা"
+  },
+  "Navbar": {
+    "about": "সম্পর্কে",
+    "contact": "যোগাযোগ"
+  }
+}

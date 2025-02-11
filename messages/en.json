@@ -1,0 +1,15 @@
+{
+  "HomePage": {
+    "title": "Home page"
+  },
+  "AboutPage": {
+    "title": "About page"
+  },
+  "ContactPage": {
+    "title": "Contact page"
+  },
+  "Navbar": {
+    "about": "About",
+    "contact": "Contact"
+  }
+}
