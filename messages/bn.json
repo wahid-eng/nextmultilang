@@ -1,6 +1,10 @@
 {
   "HomePage": {
-    "title": "হোম পেজ"
+    "title": "হোম পেজ",
+    "meta": {
+      "title": "এসইও শিরোনাম",
+      "description": "এসইও বিবরণ"
+    }
   },
   "AboutPage": {
     "title": "পৃষ্ঠা সম্পর্কে"

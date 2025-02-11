@@ -1,6 +1,10 @@
 {
   "HomePage": {
-    "title": "Home page"
+    "title": "Home page",
+    "meta": {
+      "title": "SEO Title",
+      "description": "SEO Description"
+    }
   },
   "AboutPage": {
     "title": "About page"
