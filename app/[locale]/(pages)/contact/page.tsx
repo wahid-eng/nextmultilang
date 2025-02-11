@@ -1,5 +1,7 @@
 import { useTranslations } from "next-intl";
-export default function Contact() {
+import { setRequestLocale } from "next-intl/server";
+export default function Contact({ params: { locale } }: { params: { locale: string } }) {
+  setRequestLocale(locale);
   const t = useTranslations("ContactPage");
   return <div>{t("title")}</div>;
 }
