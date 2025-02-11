@@ -7,10 +7,18 @@
     }
   },
   "AboutPage": {
-    "title": "About page"
+    "title": "About page",
+    "meta": {
+      "title": "About | Title",
+      "description": "About | Description"
+    }
   },
   "ContactPage": {
-    "title": "Contact page"
+    "title": "Contact page",
+    "meta": {
+      "title": "Contact | Title",
+      "description": "Contact | Description"
+    }
   },
   "Navbar": {
     "about": "About",
